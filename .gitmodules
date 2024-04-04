@@ -1,0 +1,3 @@
+[submodule "FlowFormerPlusPlus"]
+	path = FlowFormerPlusPlus
+	url = https://github.com/XiaoyuShi97/FlowFormerPlusPlus.git

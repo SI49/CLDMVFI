@@ -1,0 +1,15 @@
+*.pth
+*.ckpt
+*__pycache__*
+*.pyc
+*egg*
+*src/*
+*.ipynb
+logs/*
+*delete*
+eval_results*
+*.idea*
+*.pytorch
+checkpoints/*
+videos/*
+latent_diffsion.egg-info/*
